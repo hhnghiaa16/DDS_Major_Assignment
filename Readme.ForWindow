@@ -1,0 +1,7 @@
+
+## voi window thi bon em de xuat thay khoi tao 1 server postgres bang cach tai ve va cai dat tu web
+## Sau do cau hinh giong voi trong code .Tiep theo chay cac script duoi day danh cho ubuntu
+
+ venv\Scripts\Activate.ps1  
+
+ python Assignment1Tester.py  

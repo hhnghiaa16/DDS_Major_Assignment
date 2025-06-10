@@ -1,0 +1,9 @@
+
+## de dam bao may tinh cua thay se cai 1 server postgres theo cau hinh cua bon e .Bon e de xuat su dung docker de chay 1 server postgres
+## Sau do Thay hay su dung cac lenh duoi mot cach lan luot de chay thanh cong.
+
+B1:
+chmod +x start_with_ubuntu.sh
+
+B2:
+./start_with_ubuntu.sh
