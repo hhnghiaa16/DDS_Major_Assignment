@@ -1,8 +1,6 @@
 import psycopg2
 from pathlib import Path
 
-
-
 #user=root || postgres
 #password=root || newpassword
 def getopenconnection(user="postgres", password="newpassword", port=5001, host="localhost", dbname="postgres"):
